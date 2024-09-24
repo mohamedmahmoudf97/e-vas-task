@@ -29,7 +29,7 @@ const WarningModal: React.FC<WarningModalProps> = ({ isOpen, toggle, onDelete })
               />
             </svg>
           </div>
-          <h2 className="text-lg font-semibold text-gray-900">Deactivate account</h2>
+          <h2 className="text-lg font-semibold text-gray-900">Delete Entity</h2>
         </div>
         <p className="text-sm text-gray-500 mt-2">
           Are you sure you want to delete this blog? This action cannot be undone.
